@@ -1,0 +1,34 @@
+.Contenedor .textonegro
+{
+    font-weight: bold;
+    font-size: xx-large;    
+}
+
+.Contenedor .texto {
+     font-weight: bold;
+}
+
+.Boton1,
+.Boton2 {
+    font-size: 38px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Boton1 {
+    color: white;
+    background-color: green;
+}
+
+.Boton2 {
+    color: black;
+    background-color: white;
+}
+
+.Contenedor .texto-delgado {
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+.Contenedor .texto-ultimo {
+    font-weight: bold;
+}
