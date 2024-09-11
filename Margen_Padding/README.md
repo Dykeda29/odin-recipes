@@ -1,0 +1,1 @@
+En este proyecto hemos practicado las margenes, creacion de div con caracteristicas especiales cada uno.
